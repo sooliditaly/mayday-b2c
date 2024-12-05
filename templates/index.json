@@ -276,8 +276,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Paga con la tua carta su server sicuri Puoi usare carte Visa, MasterCard oppure PostePay Accettiamo pagamenti con PayPal Paga a rate con Klarna</p>",
+            "title": "PAGAMENTI SICURI",
+            "text": "<p>Paga con la tua carta su circuiti sicuri oppure con Paypal.</p><p>Accettiamo anche PostePay, G-pay o pagamenti a rate con Klarna.</p>",
             "link_label": "",
             "link": ""
           }
