@@ -267,8 +267,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "SPEDIZIONI GRATUITE",
+            "text": "<p>Spedizioni gratuite in Italia con ordini superiori a 80 €</p><p>Spedizioni gratuite in EU con ordini superiori a 120 €</p>",
             "link_label": "",
             "link": ""
           }
@@ -277,7 +277,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Paga con la tua carta su server sicuri Puoi usare carte Visa, MasterCard oppure PostePay Accettiamo pagamenti con PayPal Paga a rate con Klarna</p>",
             "link_label": "",
             "link": ""
           }
