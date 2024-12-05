@@ -212,16 +212,17 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "bindings"
-          }
-        },
         "product_x4L4Gk": {
           "type": "product",
           "settings": {
             "product": "macbalife-outline-black-hoodie",
+            "second_image": false
+          }
+        },
+        "product_ytCWFU": {
+          "type": "product",
+          "settings": {
+            "product": "technine-blaster",
             "second_image": false
           }
         },
@@ -234,8 +235,8 @@
         }
       },
       "block_order": [
-        "collection-1",
         "product_x4L4Gk",
+        "product_ytCWFU",
         "product"
       ],
       "settings": {
