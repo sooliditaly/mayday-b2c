@@ -218,25 +218,25 @@
             "collection": "bindings"
           }
         },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "canary-cartel-the-jah-tiki",
-            "second_image": false
-          }
-        },
         "product_x4L4Gk": {
           "type": "product",
           "settings": {
             "product": "macbalife-outline-black-hoodie",
             "second_image": false
           }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "canary-cartel-the-jah-tiki",
+            "second_image": false
+          }
         }
       },
       "block_order": [
         "collection-1",
-        "product",
-        "product_x4L4Gk"
+        "product_x4L4Gk",
+        "product"
       ],
       "settings": {
         "heading": "Multimedia collage",
