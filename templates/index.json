@@ -38,7 +38,7 @@
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Scopri la collezione",
-            "link": "",
+            "link": "shopify://collections/technine-snowboards",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -73,14 +73,14 @@
             "heading": "MACBALIFE",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "",
-            "link": "",
+            "button_label": "Scopri la collezione",
+            "link": "shopify://collections/macbalife",
             "button_style_secondary": false,
-            "box_align": "bottom-center",
+            "box_align": "bottom-right",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-2",
             "text_alignment_mobile": "center"
           }
         }
