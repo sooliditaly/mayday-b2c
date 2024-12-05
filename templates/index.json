@@ -171,6 +171,7 @@
         "heading",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -211,35 +212,36 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "collection-0": {
+        "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "bindings"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "canary-cartel-the-jah-tiki",
             "second_image": false
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "product_x4L4Gk": {
+          "type": "product",
           "settings": {
-            "collection": ""
+            "product": "macbalife-outline-black-hoodie",
+            "second_image": false
           }
         }
       },
       "block_order": [
-        "collection-0",
+        "collection-1",
         "product",
-        "collection-1"
+        "product_x4L4Gk"
       ],
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h2",
-        "desktop_layout": "left",
+        "desktop_layout": "right",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "scheme-1",
