@@ -285,8 +285,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "RESO PRODOTTI",
+            "text": "<p>Se c'è qualche problema con i nostri prodotti non ti preoccupare, hai 30 giorni di tempo per completare il reso.</p>",
             "link_label": "",
             "link": ""
           }
