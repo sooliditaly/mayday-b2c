@@ -52,17 +52,17 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/wknd_visore_B2C_bfca7dfe-c21c-43da-90c4-663232a7b31f.jpg",
-            "heading": "WKND",
+            "heading": "WKND Skateboards",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "",
-            "link": "",
+            "button_label": "Scopri la collezione",
+            "link": "shopify://collections/wknd-skateboards",
             "button_style_secondary": false,
-            "box_align": "bottom-center",
+            "box_align": "bottom-right",
             "show_text_box": false,
-            "text_alignment": "center",
+            "text_alignment": "right",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -70,7 +70,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/macbalife_visore_B2C_0186622a-8c1b-4e53-8f6c-5a017896d62f.jpg",
-            "heading": "MACBALIFE",
+            "heading": "MACBA Life",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Scopri la collezione",
