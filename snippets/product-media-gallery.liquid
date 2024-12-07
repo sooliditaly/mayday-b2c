@@ -56,6 +56,12 @@
     <a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-{{ section.id }}">
       {{ 'accessibility.skip_to_product_info' | t }}
     </a>
+
+    <style>
+      .product__media-list .product__media-item:first-child {
+        background-color: #F2F2F2;
+      }
+    </style>
     <ul
       id="Slider-Gallery-{{ section.id }}"
       class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile"
