@@ -14,24 +14,32 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-0": {
+        "link_list_A6pBrX": {
           "type": "link_list",
           "settings": {
             "heading": "Informazioni",
             "menu": "footer"
           }
         },
-        "footer-1": {
+        "link_list_QGKBVp": {
           "type": "link_list",
           "settings": {
             "heading": "Contatti",
             "menu": "informazioni-e-contatti"
           }
+        },
+        "link_list_QfdFHb": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Acquista",
+            "menu": "categorie-prodotto-footer"
+          }
         }
       },
       "block_order": [
-        "footer-0",
-        "footer-1"
+        "link_list_A6pBrX",
+        "link_list_QGKBVp",
+        "link_list_QfdFHb"
       ],
       "settings": {
         "color_scheme": "scheme-1",
