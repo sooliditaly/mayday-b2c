@@ -28,25 +28,25 @@
             "menu": "informazioni-e-contatti"
           }
         },
-        "brand_information_cikUQx": {
-          "type": "brand_information",
-          "settings": {
-            "show_social": true
-          }
-        },
         "link_list_ejhQzB": {
           "type": "link_list",
           "settings": {
             "heading": "Catologo",
             "menu": "categorie-prodotto-footer"
           }
+        },
+        "brand_information_cikUQx": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
         }
       },
       "block_order": [
         "link_list_A6pBrX",
         "link_list_QGKBVp",
-        "brand_information_cikUQx",
-        "link_list_ejhQzB"
+        "link_list_ejhQzB",
+        "brand_information_cikUQx"
       ],
       "settings": {
         "color_scheme": "scheme-4",
