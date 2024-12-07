@@ -34,12 +34,19 @@
             "heading": "Acquista",
             "menu": "categorie-prodotto-footer"
           }
+        },
+        "brand_information_cikUQx": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
         }
       },
       "block_order": [
         "link_list_A6pBrX",
         "link_list_QGKBVp",
-        "link_list_QfdFHb"
+        "link_list_QfdFHb",
+        "brand_information_cikUQx"
       ],
       "settings": {
         "color_scheme": "scheme-1",
