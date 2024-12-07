@@ -16,8 +16,7 @@
       max-height: 150px;
     }
 
-    @media (min-width: 750px ) {
-      
+    @media (min-width: 750px) {
       .collection-hero__inner {
         display: grid;
         grid-template-columns: auto auto;
@@ -26,18 +25,19 @@
       .collection-hero__image-wrapper {
         grid-area: 1 / 2 / 2 / 3;
       }
-      
     }
   </style>
 
   <div class="collection-hero__inner page-width {% if settings.animations_reveal_on_scroll %} scroll-trigger animate--fade-in{% endif %}">
     <div class="collection-hero__image-wrapper">
-      <img
-        src="{{ collection.metafields.custom.logo_brand | file_url }}"
-        alt="Featured Image for {{ collection.title }}"
-        width="100%"
-        height="auto"
-      >
+      {% if collection.metafields.custom.logo_brand %}
+        <img
+          src="{{ collection.metafields.custom.logo_brand | file_url }}"
+          alt="Featured Image for {{ collection.title }}"
+          width="100%"
+          height="auto"
+        >
+      {% endif %}
     </div>
 
     <div class="collection-hero__text-wrapper">

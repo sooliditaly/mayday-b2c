@@ -1,0 +1,14 @@
+@media only screen and (min-width: 750px) {
+  h1,
+  .h1 {
+    font-size: calc(var(--font-heading-scale) * 3rem);
+  }
+}
+
+@media screen and (min-width: 750px) {
+  .mayday-store .price--large {
+    font-size: 2.5rem;
+	font-weight: 800;
+	line-height: 1;
+  }
+}
