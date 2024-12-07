@@ -28,25 +28,25 @@
             "menu": "informazioni-e-contatti"
           }
         },
-        "link_list_QfdFHb": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Acquista",
-            "menu": "categorie-prodotto-footer"
-          }
-        },
         "brand_information_cikUQx": {
           "type": "brand_information",
           "settings": {
             "show_social": true
+          }
+        },
+        "link_list_ejhQzB": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Catologo",
+            "menu": "categorie-prodotto-footer"
           }
         }
       },
       "block_order": [
         "link_list_A6pBrX",
         "link_list_QGKBVp",
-        "link_list_QfdFHb",
-        "brand_information_cikUQx"
+        "brand_information_cikUQx",
+        "link_list_ejhQzB"
       ],
       "settings": {
         "color_scheme": "scheme-4",
