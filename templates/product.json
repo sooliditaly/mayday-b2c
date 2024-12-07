@@ -27,16 +27,16 @@
           "type": "description",
           "settings": {}
         },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
         "caption": {
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
           }
-        },
-        "price": {
-          "type": "price",
-          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -108,8 +108,8 @@
         "vendor",
         "title",
         "description",
-        "caption",
         "price",
+        "caption",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
