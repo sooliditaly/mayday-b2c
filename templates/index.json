@@ -271,6 +271,7 @@
         "column1": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/mayday-icon-shipping.svg",
             "title": "SPEDIZIONI GRATUITE",
             "text": "<p>Spedizioni gratuite in Italia con ordini superiori a 80 €</p><p>Spedizioni gratuite in EU con ordini superiori a 99 €</p>",
             "link_label": "",
@@ -280,6 +281,7 @@
         "column2": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/mayday-icon-payments.svg",
             "title": "PAGAMENTI SICURI",
             "text": "<p>Paga con la tua carta su circuiti sicuri oppure con Paypal.</p><p>Accettiamo anche PostePay, G-pay o pagamenti a rate con Klarna.</p>",
             "link_label": "",
@@ -289,6 +291,7 @@
         "column3": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/mayday-icon-returns.svg",
             "title": "RESO PRODOTTI",
             "text": "<p>Se c'è qualche problema con i nostri prodotti non ti preoccupare, hai 30 giorni di tempo per completare il reso.</p>",
             "link_label": "",
