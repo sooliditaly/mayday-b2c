@@ -189,7 +189,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "mosaico-home",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
