@@ -190,7 +190,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "mosaico-home",
-        "products_to_show": 8,
+        "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": false,
@@ -239,6 +239,7 @@
         "product_ytCWFU",
         "product"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h2",
