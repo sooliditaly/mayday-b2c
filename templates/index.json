@@ -274,7 +274,7 @@
           "settings": {
             "image": "shopify://shop_images/mayday-icon-shipping.svg",
             "title": "SPEDIZIONI GRATUITE",
-            "text": "<p>Spedizioni gratuite in Italia con ordini superiori a 80 €</p><p>Spedizioni gratuite in EU con ordini superiori a 99 €</p>",
+            "text": "<p>Spedizioni gratuite in Italia con ordini superiori a 80 €. Spedizioni gratuite in EU con ordini superiori a 99 €</p>",
             "link_label": "",
             "link": ""
           }
@@ -284,7 +284,7 @@
           "settings": {
             "image": "shopify://shop_images/mayday-icon-payments.svg",
             "title": "PAGAMENTI SICURI",
-            "text": "<p>Paga con la tua carta su circuiti sicuri oppure con Paypal.</p><p>Accettiamo anche PostePay, G-pay o pagamenti a rate con Klarna.</p>",
+            "text": "<p>Paga con la tua carta su circuiti sicuri oppure con Paypal. Accettiamo anche PostePay, G-pay o pagamenti a rate con Klarna.</p>",
             "link_label": "",
             "link": ""
           }
